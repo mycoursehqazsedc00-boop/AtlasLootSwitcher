@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: AtlasLoot Switcher
+## Notes: Toggles between the English and Chinese AtlasLoot editions and reloads the UI.
+## Author: You
+## Version: 1.1
+## SavedVariables: AtlasLootSwitcherDB
+
+AtlasLootSwitcher.lua
